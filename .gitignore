@@ -1,0 +1,10 @@
+LLFF/
+LLFF/
+data/
+exp/
+eval/
+*.tar.gz
+
+# Datasets
+/data/
+/data/**
